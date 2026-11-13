@@ -3,7 +3,7 @@
   <img src="./banner-github.png" width="100%" alt="Data Science and AI Banner"/>
 </p>
 
-<h1 align="center">Hi, I'm Ana Paula Takezawa 👋</h1>
+<h1 align="center">Hi, I'm Ana Paula Takezawa </h1>
 
 <h3 align="center">Data Science | Machine Learning | Artificial Intelligence</h3>
 
@@ -27,9 +27,12 @@ Currently focused on Data Science, Machine Learning, and Artificial Intelligence
 
 ### 🎓 Education & Certifications
 
-- MBA in Data Science and Artificial Intelligence — TripleTen Brasil
-- AWS Academy — Machine Learning Foundations
-- Arizona State University — Global Entrepreneurship and Business Essentials Bootcamp
+- **MBA in Data Science and Artificial Intelligence** — TripleTen Brasil
+- **Machine Learning Foundations** — AWS Academy (20 hours)
+- **Prompt Engineering for Software Engineers** — University of São Paulo (USP)
+- **Introduction to Artificial Intelligence** — Ibmec
+- **Global Entrepreneurship and Business Essentials Bootcamp** — Arizona State University / Thunderbird
+- **Global Entrepreneurship and Innovation Foundations** — Arizona State University / Thunderbird
 
 ### 🚀 Featured Project
 
